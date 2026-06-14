@@ -3,10 +3,15 @@
 👥 Integrantes
 
 Nome| RA
+
 Ana Gomes| 32610420
+
 Nátali Fialho| 32614241
+
 Samuel Franco| 326126916
+
 Ricardo Gabriel| 326128294
+
 Nicolas Gonçalo| 326125536
 
 📌 Sobre o Projeto
@@ -34,26 +39,6 @@ O Sistema de Barbearia The Cousins foi desenvolvido em Java com o objetivo de fa
 - ArrayList
 - Scanner
 
-📂 Estrutura do Projeto
-
-- "Cliente.java" → Gerenciamento dos clientes.
-- "Servicos.java" → Gerenciamento dos serviços.
-- "Agendamento.java" → Controle dos agendamentos.
-- "Barbeariatrabalho.java" → Classe principal do sistema.
-
 💡 Objetivo
 
 O projeto foi desenvolvido com a finalidade de aplicar conceitos de Programação Orientada a Objetos e criar uma solução simples para auxiliar no gerenciamento de barbearias, proporcionando mais organização e praticidade no atendimento.
-
-📈 Benefícios
-
-- Organização dos horários
-- Controle dos clientes
-- Gerenciamento dos serviços
-- Melhor atendimento ao cliente
-- Controle básico de faturamento
-- Facilidade de utilização
-
----
-
-Projeto acadêmico desenvolvido para fins educacionais.
