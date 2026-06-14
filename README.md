@@ -52,9 +52,16 @@ O projeto foi desenvolvido com a finalidade de aplicar conceitos de Programaçã
 
 📈 Benefícios
 
-- Organização dos horários
-- Controle dos clientes
-- Gerenciamento dos serviços
-- Melhor atendimento ao cliente
-- Controle básico de faturamento
-- Facilidade de utilização
+Organização dos horários
+
+Controle dos clientes
+
+Gerenciamento dos serviços
+
+Melhor atendimento ao cliente
+
+Controle básico de faturamento
+
+Facilidade de utilização
+
+
