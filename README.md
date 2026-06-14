@@ -3,10 +3,15 @@
 👥 Integrantes
 
 Nome| RA
+
 Ana Gomes| 32610420
+
 Nátali Fialho| 32614241
+
 Samuel Franco| 326126916
+
 Ricardo Gabriel| 326128294
+
 Nicolas Gonçalo| 326125536
 
 📌 Sobre o Projeto
