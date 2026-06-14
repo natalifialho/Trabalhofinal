@@ -26,7 +26,7 @@ O Sistema de Barbearia The Cousins foi desenvolvido em Java com o objetivo de fa
 - Exclusão de clientes
 - Cadastro de serviços
 - Listagem de serviços
-- Edição de serviços
+- Edição de serviços 
 - Exclusão de serviços
 - Agendamento de horários
 - Consulta de agendamentos
