@@ -3,15 +3,10 @@
 👥 Integrantes
 
 Nome| RA
-
 Ana Gomes| 32610420
-
 Nátali Fialho| 32614241
-
 Samuel Franco| 326126916
-
 Ricardo Gabriel| 326128294
-
 Nicolas Gonçalo| 326125536
 
 📌 Sobre o Projeto
@@ -52,16 +47,13 @@ O projeto foi desenvolvido com a finalidade de aplicar conceitos de Programaçã
 
 📈 Benefícios
 
-Organização dos horários
+- Organização dos horários
+- Controle dos clientes
+- Gerenciamento dos serviços
+- Melhor atendimento ao cliente
+- Controle básico de faturamento
+- Facilidade de utilização
 
-Controle dos clientes
+---
 
-Gerenciamento dos serviços
-
-Melhor atendimento ao cliente
-
-Controle básico de faturamento
-
-Facilidade de utilização
-
-
+Projeto acadêmico desenvolvido para fins educacionais.
